@@ -8,6 +8,7 @@
         android:layout_width="110dp"
         android:layout_height="100dp"
         android:text="버튼1"
+        android:textSize="20dp"
         android:gravity="top|right"
         android:layout_gravity="center"
         />
@@ -16,6 +17,7 @@
         android:layout_width="110dp"
         android:layout_height="100dp"
         android:text="버튼2"
+        android:textSize="20dp"
         android:gravity="center|left"
         android:layout_gravity="left"
         />
@@ -24,6 +26,7 @@
         android:layout_width="110dp"
         android:layout_height="100dp"
         android:text="버튼3"
+        android:textSize="20dp"
         android:gravity="right|bottom"
         android:layout_gravity="right"
         />
